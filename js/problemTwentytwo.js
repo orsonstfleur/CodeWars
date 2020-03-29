@@ -1,10 +1,4 @@
 
-// 7kyu - The Pony Express
-
-// A History Lesson
-
-// The Pony Express was a mail service operating in the US in 1859-60.
-
 // [Pony Express]
 
 // It reduced the time for messages to travel between the Atlantic and Pacific
